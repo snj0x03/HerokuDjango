@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-u+9$n&=w5=4ddshnsnjpv6dgn8k72ildo3f8%ovzvquk)icwel
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'sampledjangochat.herokuapp.com']
 
 
 # Application definition
